@@ -5,13 +5,19 @@
 **This is  bold**
 <br/>
 _This is Italic_
-~~ ~~
+~~This is strikethough~~
 <br/>
 Unordered lis
 <br/> 
 - list 1
 - list 2
 - list 3
-- <br/>
+  <br/>
+  ordered list
+  1. list
+  2. list
+  3. list
+  4. list
+  5. list
 
 Introduction to GitHub
