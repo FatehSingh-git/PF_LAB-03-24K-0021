@@ -5,6 +5,7 @@
 **This is  bold**
 <br/>
 _This is Italic_
+<br/>
 ~~This is strikethough~~
 <br/>
 Unordered lis
